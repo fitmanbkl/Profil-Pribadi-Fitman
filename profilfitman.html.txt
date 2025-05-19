@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CV Fitman - Front-End Developer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Fitman</h1>
+    <p>Calon React Front-End Developer</p>
+  </header>
+
+  <section class="kontak">
+    <h2>Kontak</h2>
+    <ul>
+      <li>Email: fitmanbengkulu@gmail.com</li>
+      <li>WhatsApp: +62 812-9199-0124</li>
+      <li>Lokasi: Indonesia (Siap kerja remote)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Profil Singkat</h2>
+    <p>
+      Saya adalah calon Front-End Developer dengan latar belakang Diploma Manajemen Informatika dan pengalaman sebagai teknisi komputer. Saya sedang fokus belajar HTML, CSS, JavaScript, dan React untuk menjadi developer profesional yang siap bekerja secara remote.
+    </p>
+  </section>
+
+  <section>
+    <h2>Keahlian Teknis</h2>
+    <ul>
+      <li>HTML5 & CSS3</li>
+      <li>JavaScript Dasar (ES6)</li>
+      <li>Responsive Web Design</li>
+      <li>Dasar Git & GitHub (sedang belajar)</li>
+      <li>React.js (sedang belajar)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Pengalaman Proyek</h2>
+    <p><strong>Website Profil Perusahaan (Pribadi)</strong></p>
+    <ul>
+      <li>Membuat website statis dengan HTML & CSS</li>
+      <li>Struktur: Beranda, Tentang Kami, Layanan, Kontak</li>
+      <li>Desain responsif</li>
+      <li>Dalam pengembangan lanjut menggunakan JavaScript & React</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Pendidikan</h2>
+    <p>Diploma – Manajemen Informatika <br /> (Tahun lulus: …)</p>
+  </section>
+
+  <section>
+    <h2>Pengalaman Kerja</h2>
+    <p><strong>Teknisi Komputer</strong></p>
+    <p>Instalasi software, perawatan hardware, dan troubleshooting jaringan.</p>
+  </section>
+
+  <section>
+    <h2>Tujuan Karier</h2>
+    <p>
+      Menjadi Front-End Developer React profesional dan siap kerja remote atau internasional. Terbuka untuk belajar dan bekerja dalam tim global.
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Fitman. Dibuat dengan HTML, CSS, dan semangat belajar.</p>
+    <button onclick="scrollToTop()">Kembali ke atas</button>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
